@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "title": "Ob-xavo kesikin ozgaradi",
+      "description": "MVhsdan keldi",
+      "userId": 1
+  },
+  {
+      "id": 2,
+      "title": "Lavinoopasno",
+      "description": "Infodan keldi",
+      "userId": 1
+  },
+  {
+      "id": 3,
+      "title": "14-yanvar Vatan ximoyachalari kuni",
+      "description": "Uzmobiledan keldi",
+      "userId": 2
+  },
+  {
+      "id": 4,
+      "title": "Xisobingizni toldiring",
+      "description": "MIB dan",
+      "userId": 2
+  }
+]

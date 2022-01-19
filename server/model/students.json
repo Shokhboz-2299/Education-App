@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "name": "John",
+      "password": "abc123",
+      "courseId":1
+  },
+  {
+      "id": 2,
+      "name": "Toni",
+      "password": "toniii",
+      "courseId":2
+  },
+  {
+    "id": 3,
+    "name": "Jumavoy",
+    "password": "jumavoy.ru",
+    "courseId":1
+},
+{
+    "id": 4,
+    "name": "Robinzon",
+    "password": "jumavoy",
+    "courseId":2
+}
+]

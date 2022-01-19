@@ -1,0 +1,22 @@
+[
+  {
+      "id": 1,
+      "title": "o'quv markaz websayti",
+      "courseId": 1
+  },
+  {
+      "id": 2,
+      "title": "internet magazin",
+      "courseId": 1
+  },
+  {
+      "id": 3,
+      "title": "kalkulyator ilovasi",
+      "courseId": 2
+  },
+  {
+      "id": 4,
+      "title": "dtm test sinovlari ilovasi",
+      "courseId": 2
+  }
+]
